@@ -13,5 +13,8 @@
   <li>
     git add remote origin url-to-github-repository
   </li>
+  <li>
+    git push -u origin master
+  </li>
 </ol>
   
