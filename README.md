@@ -38,4 +38,19 @@
     New Pull Request
   </li>
 </ol>
+<p>To create a branch:</p>
+<ol>
+  <li>
+    git checkout -b branchName
+  </li>
+  <li>
+    git add .
+  </li>
+  <li>
+    git commit -m " "
+  </li>
+  <li>
+    git push --set-upstream origin design-features
+  </li>
+</ol>
     
