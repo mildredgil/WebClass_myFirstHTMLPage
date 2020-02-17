@@ -17,4 +17,25 @@
     git push -u origin master
   </li>
 </ol>
-  
+<p>Steps to create a Pull Request:</p>
+<ol>
+  <li>
+    Fork the repository
+  </li>
+  <li>
+    git clone url
+  </li>
+  <li>
+    git add .
+  </li>
+  <li>
+    git commit -m " "
+  </li>
+  <li>
+    git push -u origin master
+  </li>
+  <li>
+    New Pull Request
+  </li>
+</ol>
+    
