@@ -53,4 +53,16 @@
     git push --set-upstream origin design-features
   </li>
 </ol>
+<p>To merge a branch into another:</p>
+<ol>
+  <li>
+    git checkout branch
+  </li>
+  <li>
+    git merge desirebranch
+  </li>
+  <li>
+    git push 
+  </li>
+</ol>
     
